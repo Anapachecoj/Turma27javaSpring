@@ -1,0 +1,5 @@
+package org.generationblog.model;
+
+public class Tema {
+
+}
